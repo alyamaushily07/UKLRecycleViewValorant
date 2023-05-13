@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyReycleView</string>
+    <string name="agent_name">Nama Agent</string>
+    <string name="from">Deskribsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+
+</resources>
